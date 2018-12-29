@@ -1,2 +1,1 @@
-The project is about a game called achtung die kurve.
-the first to reach 10 points win the game.
+The project is about a game called Achtung die kurve. The goal of the game is to make your snake as long as possible. Don't touch your opponents or the walls, you will die. Think about your strategy, it's probably a smart idea to try to encircle your opponents or trap them into a corner. The first opponent to reach 10 points, win the game.
